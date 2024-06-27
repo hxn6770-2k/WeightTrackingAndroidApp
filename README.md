@@ -1,7 +1,5 @@
 # WeightTrackingAndroidApp
 
-# Weight Tracking App
-
 ## Overview
 
 The Weight Tracking App is designed to help users monitor their weight loss or gain progress effectively. It allows users to set weight goals, track daily weight entries, and receive notifications to stay motivated. The app addresses the user needs of managing weight goals, visualizing progress over time, and maintaining motivation through reminders and goal tracking.
